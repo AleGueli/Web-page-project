@@ -8,11 +8,8 @@ You can use this to show your project developed at Fablab.
 
 ## How to use
 
-Edit the files in '_includes' Jekyll will create your costumized pages in '_site'
-
  - Place images in `/img/slider/`
  - Place images in `/img/posts/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
  - Create posts to display your projects. Use the follow as an example:
 ```txt
 ---
@@ -36,5 +33,6 @@ use standard html tag to include [image] (http://www.w3schools.com/html/html_ima
 View this template in action [here](http://alegueli.github.io/Web-page-project-template)
 
 =========
+For more customization edit the files in '_includes'; Jekyll, after building, will create your costumized pages in '_site'.
 For more details, read the [documentation](http://jekyllrb.com/)
 
