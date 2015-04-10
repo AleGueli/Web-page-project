@@ -22,17 +22,16 @@ project-date: May 2015
 client: The Client
 category: Blog Posts
 description: The description of the project
-
-use standard html tag to include [image] (http://www.w3schools.com/html/html_images.asp) or [link] (http://www.w3schools.com/html/html_links.asp) in the post description.
-
 ---
 
 ```
+use standard html tag to include [image] (http://www.w3schools.com/html/html_images.asp) or [link] (http://www.w3schools.com/html/html_links.asp) in the post description.
+
 
 ## Demo
 View this template in action [here](http://alegueli.github.io/Web-page-project-template)
 
 =========
 For more customization edit the files in '_includes'; Jekyll, after building, will create your costumized pages in '_site'.
-For more details, read the [documentation](http://jekyllrb.com/)
+For more details, read the [documentation](http://jekyllrb.com/).
 
